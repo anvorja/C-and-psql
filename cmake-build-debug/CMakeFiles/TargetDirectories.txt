@@ -1,0 +1,3 @@
+/home/anborja/CLionProjects/psqlMe/cmake-build-debug/CMakeFiles/psqlMe.dir
+/home/anborja/CLionProjects/psqlMe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anborja/CLionProjects/psqlMe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
